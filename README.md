@@ -1,0 +1,3 @@
+# Plan for StarDeception
+
+You have here all data for the StarDeception game: the lore, the technical data, server architecture...
